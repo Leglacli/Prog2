@@ -1,7 +1,12 @@
-# Prog2 Projekt
+# Totally Unfair Adventure
 
 ## Rage Platformer
 
-A difficult platformer game made for players who like challenges
+A difficult platformer game made for players who like challenges.
 
-Currently being developed with C# in Unity
+- 3 Levels
+- New type of traps, enemies as you progress through the game.
+- Guaranteed fun!
+
+
+Developed with C# in Unity
